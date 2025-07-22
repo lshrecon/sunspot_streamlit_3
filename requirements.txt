@@ -1,8 +1,6 @@
-cython>=0.22
-numpy==1.26.4
-pystan==2.19.1.1
-prophet==1.1.5
 streamlit==1.35.0
 pandas==2.2.2
 matplotlib==3.8.4
+numpy==1.26.4
 scipy>=1.13.0
+prophet[cmdstanpy]==1.1.5
